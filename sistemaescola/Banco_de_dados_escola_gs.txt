@@ -1,0 +1,7 @@
+#Matrícula Aluno Ano
+002:Francisco:2012
+014:Maria:2022
+010:João:2018
+006:Fernando:2016
+007:Luis:2019
+011:Matheus:2021
